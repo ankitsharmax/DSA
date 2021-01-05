@@ -3,5 +3,3 @@
 
 
 #### Start Date: 29 october 2020
-
-## DSA 30 days challenge
